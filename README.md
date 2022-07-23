@@ -1,2 +1,11 @@
-# ds4-vibrator
-Python + pygame dualshock 4 controller vibrator application
+# controller-vibrator
+Python + pygame controller vibrator application
+
+
+## Testing
+
+tested on:
+ds4 (dualshock 4)
+
+under:
+fedora 35 (linux)
